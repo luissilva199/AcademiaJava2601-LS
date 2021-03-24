@@ -17,7 +17,7 @@ public class Pizza {
     }
     
     public String getNome() {
-        return nome;
+        return _nome;
     }
 
     public void setNome(String nome) {
